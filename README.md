@@ -1,6 +1,6 @@
-###📌 Project Title
-###Customer Risk, Churn & Engagement Analytics – American Express (Case Study)
-##🧠 Business Context
+## 📌 Project Title
+### Customer Risk, Churn & Engagement Analytics – American Express (Case Study)
+## 🧠 Business Context
 
 Financial services companies like American Express manage millions of cardmembers where early identification of customer risk and disengagement is critical to:
 
@@ -14,7 +14,7 @@ Enabling proactive engagement strategies
 
 This project demonstrates how customer-level behavioral data can be transformed into actionable risk and retention insights using analytics and machine learning.
 
-##🎯 Problem Statement
+## 🎯 Problem Statement
 
 How can we proactively identify customers at risk of default and disengagement, and translate those insights into targeted churn prevention and engagement strategies?
 
